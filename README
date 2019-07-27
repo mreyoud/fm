@@ -1,0 +1,11 @@
+NAME
+	fm
+
+DESCRIPTION
+	A simple NCurses, C99, file manager for Posix with VI inspired
+	keybinds.
+
+DEPENDENCIES
+	ncurses
+	lib0 (https://github.com/mreyoud/lib0).
+
